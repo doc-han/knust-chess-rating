@@ -2,7 +2,7 @@
 A simple platform for the KNUST CHESS CLUB
 
 ## How to install
-1. clone repo
+1. Fork the repo and clone from your copy
 2. cd into repo
 3. creat a file .env in the directory and paste the below in the file
 ```txt
